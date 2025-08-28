@@ -86,7 +86,7 @@ Developed as a **Final Year Project (FYP)** in collaboration with:
 ---
 
 ## 📽 Demo
-👉 [Download/Watch Demo](/demo)
+👉 (https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
 
 ---
 
