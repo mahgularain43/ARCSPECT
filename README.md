@@ -86,7 +86,7 @@ Developed as a **Final Year Project (FYP)** in collaboration with:
 ---
 
 ## 📽 Demo
-👉 (https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+👉 ([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/mahgularain43/ARCSPECT/blob/main/demo.mp4))
 
 ---
 
