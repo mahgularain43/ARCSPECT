@@ -86,7 +86,7 @@ Developed as a **Final Year Project (FYP)** in collaboration with:
 ---
 
 ## 📽 Demo
-👉 [Download/Watch Demo](/demo.mp4)
+👉 [Download/Watch Demo](/demo)
 
 ---
 
