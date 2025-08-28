@@ -1,8 +1,3 @@
-# React + Vite
+# FINALYEAR PROJECT ARCSPECT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ARSCPECT project automates the architectural design process by allowing individuals to create 3D models just from text inputs and reduces the gap between professionals and the general public by its fusion of artificial intelligence, natural language processing, and 3D rendering technologies into a single system. The main goal was to simplify home design for owners, interior designers, and architects, thus appealing to a wider audience not requiring advanced technical skills.
